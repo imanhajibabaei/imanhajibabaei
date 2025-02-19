@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Iman! 👋  
 
-<!--
-**imanhajibabaei/imanhajibabaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BI Developer at **Digikala**
 
-Here are some ideas to get you started:
+### ⚡ Tech & Skills  
+- **Databases**: SQL Server, Oracle  
+- **BI Tools**: Power BI, Tableau  
+- **Languages**: SQL, Python, DAX
+- **Data Modeling & Warehousing** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imanhajibabaei)  
+[![GitHub](https://img.shields.io/badge/GitHub-iman-black?style=flat&logo=github)](https://github.com/imanhajibabaei)  
+
+💡 *"Turning raw data into insights & decisions!"*  
