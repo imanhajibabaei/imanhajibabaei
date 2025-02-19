@@ -9,7 +9,8 @@
 - **Data Modeling & Warehousing** 
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imanhajibabaei)  
-[![GitHub](https://img.shields.io/badge/GitHub-iman-black?style=flat&logo=github)](https://github.com/imanhajibabaei)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imanhajibabaei-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imanhajibabaei)  
+[![Email](https://img.shields.io/badge/Email-imanhajibabaei@gmail.com-red?style=flat&logo=gmail)](mailto:imanhajibabaei@gmail.com)  
+
 
 💡 *"Turning raw data into insights & decisions!"*  
